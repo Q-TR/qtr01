@@ -1,6 +1,0 @@
-Parts List
---------
-Part Name	Part Manufacturer	Part Number
----------------------------------------------------
-Servo,		Butts,			12312
-
